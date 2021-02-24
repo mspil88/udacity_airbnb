@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+initial_eda.ipynb
+modelling.ipynb
+.vscode/
