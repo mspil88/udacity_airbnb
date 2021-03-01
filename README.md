@@ -33,20 +33,20 @@ The project has the following structure:
 
 Root <br />
 | <br />  
-|-----Data <br \>  
-|		|---- listings.csv <br \>
-|		|---- calendar.csv <br \>
-|		|---- reviews.csv <br \>
-| <br \>		
-| <br \>
-|-----Utils <br \>
-|		|---- analysis_utils.py <br \>
-|		|---- data_proc.py <br \>
-| <br \>
-|-----business_questions.ipynb <br \>
-| <br \>
-|-----initial_eda.ipynb <br \>
-| <br \>
+|-----Data <br />  
+|		|---- listings.csv <br />
+|		|---- calendar.csv <br />
+|		|---- reviews.csv <br />
+| <br />		
+| <br />
+|-----Utils <br />
+|		|---- analysis_utils.py <br />
+|		|---- data_proc.py <br />
+| <br />
+|-----business_questions.ipynb <br />
+| <br />
+|-----initial_eda.ipynb <br />
+| <br />
 |-----final_modelling.ipynb		
 
 The data folder contains the data used for the project, the utils folder contains the customer modules I created, including for the purposes of processing the data and 
