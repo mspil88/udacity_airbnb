@@ -31,22 +31,22 @@ This opened up three key factors:
 
 The project has the following structure:
 
-Root
-|
-|-----Data
-|		|---- listings.csv
-|		|---- calendar.csv
-|		|---- reviews.csv (unused)
-|		
-|
-|-----Utils
-|		|---- analysis_utils.py
-|		|---- data_proc.py
-|
-|-----business_questions.ipynb
-|
-|-----initial_eda.ipynb
-|
+Root <br />
+| <br />  
+|-----Data <br \>  
+|		|---- listings.csv <br \>
+|		|---- calendar.csv <br \>
+|		|---- reviews.csv <br \>
+| <br \>		
+| <br \>
+|-----Utils <br \>
+|		|---- analysis_utils.py <br \>
+|		|---- data_proc.py <br \>
+| <br \>
+|-----business_questions.ipynb <br \>
+| <br \>
+|-----initial_eda.ipynb <br \>
+| <br \>
 |-----final_modelling.ipynb		
 
 The data folder contains the data used for the project, the utils folder contains the customer modules I created, including for the purposes of processing the data and 
